@@ -1,4 +1,4 @@
-# 🔮 Live Customer Churn Risk Inference Engine
+# Live Customer Churn Risk Inference Engine
  
 An advanced, responsive enterprise-grade dashboard built with **Streamlit**, leveraging a Gradient Boosting pipeline to compute real-time operational churn probabilities (**<15ms target latency**). Features an integrated eXplainable AI (XAI) interface powered by **SHAP** to visualize local feature impact vectors on-the-fly.
  
