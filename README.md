@@ -13,7 +13,7 @@ An advanced, responsive enterprise-grade dashboard built with **Streamlit**, lev
 </p>
 ---
  
-## 🚀 Key Features
+## Key Features
  
 - **Advanced Cyberpunk/Gemini UI** — Tailored dark-themed styling, glassmorphism telemetry widgets, and glowing neon visual cues.
 - **Predictive Pipeline Integration** — Connects seamlessly with a production serialization pipeline (`preprocessor.pkl` and `churn_model.pkl`).
@@ -21,7 +21,7 @@ An advanced, responsive enterprise-grade dashboard built with **Streamlit**, lev
 - **Environment Diagnostics** — Automated runtime asset verification for production readiness.
 ---
  
-## 🛠️ Tech Toolkit
+## Tech Toolkit
  
 | Category | Tools |
 |---|---|
@@ -31,7 +31,7 @@ An advanced, responsive enterprise-grade dashboard built with **Streamlit**, lev
  
 ---
  
-## 📦 Local Installation & Setup
+## Local Installation & Setup
  
 ### 1. Clone the repository
 ```bash
@@ -73,7 +73,7 @@ customer-churn-intelligence-dashboard/
  
 ---
  
-## 🧠 How It Works
+## How It Works
  
 1. User inputs (or batch data) are passed through the serialized **preprocessing pipeline**.
 2. The **Gradient Boosting model** computes a real-time churn probability score.
