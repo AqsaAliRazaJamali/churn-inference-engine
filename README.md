@@ -93,6 +93,16 @@ This project is licensed under the **MIT License**.
  
 ---
  
-## ✍️ Author
- 
-**Aqsa Jamali**
+## 👨‍💻 Author
+
+### **Aqsa Jamali**
+
+Artificial Intelligence Student | Machine Learning Enthusiast | Python Developer
+
+GitHub: **https://github.com/AqsaAliRazaJamali**
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a **⭐ Star** on GitHub.
