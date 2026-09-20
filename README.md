@@ -60,7 +60,7 @@ streamlit run app.py
  
 ---
  
-## 📂 Project Structure
+## Project Structure
  
 ```
 customer-churn-intelligence-dashboard/
