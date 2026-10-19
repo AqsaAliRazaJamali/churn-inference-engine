@@ -14,7 +14,7 @@ An advanced, responsive enterprise-grade dashboard built with **Streamlit**, lev
 
 ---
  
-## Key Features
+## Main Features
  
 - **Advanced Cyberpunk/Gemini UI** — Tailored dark-themed styling, glassmorphism telemetry widgets, and glowing neon visual cues.
 - **Predictive Pipeline Integration** — Connects seamlessly with a production serialization pipeline (`preprocessor.pkl` and `churn_model.pkl`).
