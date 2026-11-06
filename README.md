@@ -1,6 +1,6 @@
 # Live Customer Churn Risk Inference Engine
  
-An enterprise-grade, responsive dashboard built with Streamlit, featuring a Gradient Boosting machine learning pipeline for real-time customer churn probability prediction, with a target inference latency of under 15ms. Integrates Explainable AI (XAI) through SHAP to provide interactive, on-demand visualizations of feature contributions, helping users understand the factors influencing individual predictions.
+An interactive, responsive machine learning dashboard built with Streamlit, powered by a Gradient Boosting pipeline for real-time customer churn prediction. Designed with a target inference latency of under 15ms, the application integrates Explainable AI (XAI) using SHAP to deliver interactive visualizations of feature contributions, revealing the key factors driving individual predictions.
  
 <p align="left">
   <img src="https://img.shields.io/badge/python-3.9%2B-blue?logo=python&logoColor=white" alt="Python">
